@@ -5,8 +5,8 @@
 
 
 ### Talking about Personal Stuff:
-
-- 🎓 &nbsp; MS Student majoring in computer science and technology at the Beijing University of Posts and Telecommunications and will graduate in June 2025.
+- 💼 &nbsp; An AI Search Algorithm Engineer at ByteDance (TikTok).
+- 🎓 &nbsp; M.S. in Computer Science and Technology from Beijing University of Posts and Telecommunications (graduated June 2025). 
 - 📫 &nbsp; Reach me out: he_yangl@163.com.
 
 ### My Absolute Favorites:
